@@ -13,3 +13,4 @@ contract ConstructorExample {
         return str;
     }
 }
+
